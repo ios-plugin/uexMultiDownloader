@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin name="uexMultiDownloader">
+        <method name="openManagerView"></method>
+        <method name="closeManagerView"></method>
+        <method name="enqueue"></method>
+        <method name="openManagerView"></method>
+        <method name="queryById"></method>
+    </plugin>
+</uexplugins>

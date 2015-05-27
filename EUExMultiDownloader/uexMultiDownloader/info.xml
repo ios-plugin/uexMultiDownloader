@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexMultiDownloader" version="3.0" build="0.0.4">
+        <info>build 0:多线程下载，仿UC</info>
+    </plugin>
+</uexplugins>
